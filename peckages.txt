@@ -1,2 +1,3 @@
-garphviz
-garphviz-dev
+graphviz
+
+graphviz-dev
